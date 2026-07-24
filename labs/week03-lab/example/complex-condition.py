@@ -30,3 +30,5 @@ if weather == "sunny":
         print("Sunny but cold")
 else:
     print("Not a sunny day")
+
+    
