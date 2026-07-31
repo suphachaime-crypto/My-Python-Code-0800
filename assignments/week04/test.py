@@ -1,10 +1,3 @@
-# รับค่า ชื่อจริง ผู้ใช้
-# เขียน loop เพื่อนับจำนวน "สระที่อยู่ในชื่อที่รับมา" นั้นว่ามีจำนวนกี่ตัว
-
-# ตัวอย่างหน้าจอ
-
-# what is your name?  Boonchu
-# Your name have 4 vowels.
 
 name = "Boonchoo"
 vowels = 0
