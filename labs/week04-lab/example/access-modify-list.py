@@ -47,7 +47,7 @@ removed_fruit = fruits.pop(1)    # Remove and return element at index 1
 print(f"Removed: {removed_fruit}")  # cherry
 print(fruits)  # ['pear', 'orange', 'grape', 'kiwi']
 
-del fruits[0]                    # Delete element at index 0
+del fruits[0]                     # Delete element at index 0
 print(fruits)  # ['orange', 'grape', 'kiwi']
 
 fruits.clear()                   # Remove all elements
