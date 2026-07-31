@@ -6,8 +6,7 @@
 # what is your name?  Boonchu
 # Your name have 4 vowels.
 
-name = input("What is your name?: ")
-ืname = Boonchoo 
+name = "Boonchoo"
 vowels = 0
 
 for letter in name:
